@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+8
+sumapeso
+1
+0
+4
+peso
+1
+0
+4
+1
+39
+' ingrese la capacidad del verhiculo ' 
+5
+1
+9
+capacidad
+9
+1
+20
+sumapeso < capacidad
+4
+1
+19
+' ingrese el peso '
+5
+1
+4
+peso
+6
+1
+8
+sumapeso
+13
+peso+sumapeso
+7
+0
+1
+21
+sumapeso <= capacidad
+6
+2
+8
+sumapeso
+15
+sumapeso - peso
+10
+disponible
+20
+capacidad - sumapeso
+4
+1
+76
+' el peso de paquete excede la ncapacidad disponible que es : ' , disponible
+13
+4
+1
+27
+' peso cargado ' , sumapeso
+13
+11
+4
+1
+28
+' la carga  esta completa ' 
+1

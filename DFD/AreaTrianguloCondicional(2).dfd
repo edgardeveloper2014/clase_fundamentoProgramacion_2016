@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+' ingrese la base  y la altura del triangulo   '
+5
+1
+5
+b , h
+7
+0
+1
+14
+b >0  AND h >0
+4
+1
+77
+'  la base y la altura no pueden recibir numeros negativos ni puede ser 0  ' 
+13
+6
+1
+2
+at
+11
+(b * h) / 2
+4
+1
+32
+'  area del triangulo es  ' , at
+13
+1

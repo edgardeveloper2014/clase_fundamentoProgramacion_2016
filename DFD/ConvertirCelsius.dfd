@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+' Ingrese los grados celsuis'
+5
+1
+7
+celsius
+6
+1
+9
+farenheit
+16
+(celsius*1.8)+32
+4
+1
+40
+' los grados farenheit son  ' ,farenheit
+1

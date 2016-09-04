@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'ingrese un numero'
+5
+1
+1
+x
+7
+0
+1
+17
+x >=0  AND x <=10
+4
+1
+58
+'el numero  ' , x, '  no esta comprendido entre el 0 y 10'
+13
+4
+1
+52
+'el numero  ',  x ,'  esta comprendido entre 0 y 10'
+13
+1

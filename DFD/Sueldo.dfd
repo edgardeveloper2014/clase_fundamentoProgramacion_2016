@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+' ingrese la cantidad de horas'
+5
+1
+9
+cantHoras
+4
+1
+41
+' ingrese el valor de la hora trabajada '
+5
+1
+9
+valorHora
+6
+1
+6
+sueldo
+21
+cantHoras * valorHora
+4
+1
+39
+' El sueldo del empleado  es ' , sueldo
+1

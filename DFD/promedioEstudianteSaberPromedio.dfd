@@ -1,0 +1,177 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+14
+cantEstudiante
+1
+0
+4
+1
+62
+'   ingrese la cantidad de estudiantes que requiere evaluar  '
+5
+1
+14
+cantEstudiante
+7
+0
+1
+17
+cantEstudiante >0
+4
+1
+141
+'  la cantidad de estudiantes no puede ser cero ni tampoco tener numeros negativos por favor ingrese una cantidad valida para ser evaluada  '
+13
+4
+1
+60
+' la cantidad de estudiantes es la  indicada para evaluar  '
+4
+1
+63
+' Los estudiantes que se van a evaluar son:   ', cantEstudiante
+13
+8
+1
+1
+e
+1
+1
+1
+1
+14
+cantEstudiante
+1
+1
+1
+6
+1
+4
+suma
+1
+0
+4
+1
+61
+'  Ingrese el nombre del estudiante que  va a ser evaluado  '
+5
+1
+9
+nombre(e)
+4
+1
+56
+' El nombre del estudiante',  e  , '   es   ', nombre(e)
+4
+1
+56
+' Ingrese cantidad de notas del estudiante ' , nombre(e)
+5
+1
+9
+cantNotas
+7
+0
+1
+12
+cantNotas >0
+4
+1
+135
+'  la cantidad de notas  no es aceptable no puede ser cero ni tampoco tener numeros negativos  por favor ingrese una cantidad valida  '
+13
+4
+1
+74
+' la cantidad de notas es valida por favor siga con el siguiente proceso '
+8
+1
+2
+nt
+1
+1
+1
+1
+9
+cantNotas
+1
+1
+1
+4
+1
+52
+'  Ingrese  nota ',nt,' del estudiante  ', nombre(e)
+5
+1
+8
+nota(nt)
+7
+0
+1
+12
+nota(nt) > 0
+4
+1
+142
+' La nota NO es valida  NO puede tener numeros negativos ni tener CEROS por favor ingrese una nota valida para poder continuar con el proceso'
+13
+4
+1
+52
+' la nota ' , nt ,' cumple con el valor establecido'
+6
+1
+4
+suma
+13
+suma+nota(nt)
+13
+10
+13
+6
+1
+7
+prom(e)
+16
+suma / cantNotas
+10
+8
+1
+1
+e
+1
+1
+1
+1
+14
+cantEstudiante
+1
+1
+1
+7
+0
+1
+30
+prom(e) >= 3.5 AND prom(e) >=5
+4
+1
+37
+' El estudiante  NO paso la materia '
+13
+4
+1
+85
+'  El nombre del estudiante es  ' , nombre(e) , '  y su promedio fue de:   ', prom(e)
+4
+1
+33
+' el estudiante paso la materia '
+13
+10
+1

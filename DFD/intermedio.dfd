@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+' Ingrese el primer numero '
+5
+1
+7
+numero1
+4
+1
+29
+' ingrese el segundo numero '
+5
+1
+7
+numero2
+4
+1
+28
+' ingrese el tercer numero '
+5
+1
+7
+numero3
+7
+0
+1
+89
+(numero1 >numero2  AND numero1 < numero3 ) OR (numero1 < numero2  AND numero1 > numero3) 
+7
+0
+1
+89
+(numero2 >numero1  AND numero2 < numero3 ) OR (numero2 < numero1  AND numero2 > numero3) 
+7
+0
+1
+86
+( numero3 > numero1 AND numero3 < numero2) OR (numero3 < numero1 AND numero3 >numero2)
+4
+1
+33
+' dos o  mas numeros son iguales'
+13
+4
+1
+26
+' intermedio es ', numero3
+13
+13
+4
+1
+27
+' intermedio es ' , numero2
+13
+13
+4
+1
+29
+'  intermedio es  ' , numero1
+13
+1

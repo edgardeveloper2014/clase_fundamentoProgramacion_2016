@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+' ingrese la cantidad de horas'
+5
+1
+9
+cantHoras
+7
+0
+1
+14
+cantHoras >160
+6
+1
+6
+sueldo
+16
+cantHoras * 5000
+13
+6
+2
+9
+horaExtra
+15
+cantHoras - 160
+6
+sueldo
+28
+(horaExtra*10000)+(160*5000)
+4
+1
+31
+' la hora extra es ' ,horaExtra
+13
+4
+1
+39
+' El sueldo del empleado  es ' , sueldo
+1

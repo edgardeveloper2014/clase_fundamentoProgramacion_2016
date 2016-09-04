@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+10
+sueldoBase
+6
+650000
+8
+comision
+1
+0
+12
+salarioTotal
+1
+0
+4
+1
+46
+' ingrese la cantidad de ventas que realizo  '
+5
+1
+10
+cantVentas
+7
+0
+1
+16
+cantVentas >= 50
+7
+0
+1
+16
+cantVentas >= 60
+13
+6
+2
+8
+comision
+4
+5000
+12
+salarioTotal
+19
+sueldoBase+comision
+13
+13
+6
+2
+8
+comision
+4
+2000
+12
+salarioTotal
+19
+sueldoBase+comision
+13
+4
+1
+135
+' el salario base del empleado es de  ' , sueldoBase , '  su comision fue de  ' , comision , '  su salario total es de  ', salarioTotal
+1

@@ -1,0 +1,108 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+sBase
+6
+650000
+9
+vComision
+1
+0
+6
+sTotal
+1
+0
+4
+1
+47
+' ingrese la cantidad de ventas  del vendedor '
+5
+1
+7
+cVentas
+7
+0
+1
+13
+cVentas >= 90
+7
+0
+1
+13
+cVentas >= 80
+7
+0
+1
+13
+cVentas >= 70
+7
+0
+1
+14
+cVentas  >= 60
+7
+0
+1
+13
+cVentas >= 50
+4
+1
+23
+'  No tiene Comisión  '
+13
+6
+1
+9
+vComision
+4
+2000
+13
+13
+6
+1
+9
+vComision
+4
+5000
+13
+13
+6
+1
+9
+vComision
+4
+8000
+13
+13
+6
+1
+9
+vComision
+5
+10000
+13
+13
+6
+1
+9
+vComision
+5
+12000
+13
+6
+1
+6
+sTotal
+17
+vComision + sBase
+4
+1
+244
+'    Cantidad Ventas del vendedor     ' , cVentas ,       '     Sueldo Base es ', sBase ,                                 '     su comision fue de   ' , vComision,                        '   sueldo total incluyendo la comision es de    ',sTotal
+1
